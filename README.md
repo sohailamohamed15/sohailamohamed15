@@ -1,3 +1,6 @@
+<h1 align="center">Hi, I'm Sohaila 👋</h1>
+<h3 align="center">AI & Machine Learning Engineer | Biomedical Engineering Student</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on AI-powered healthcare systems, including my graduation project Vita and chronic-disease monitoring project Motmean using ML & IoT.<br>Advanced medical image analysis models for diagnostics and clinical decision support.<br>👯 I’m looking to collaborate on Machine Learning & Deep Learning projects in healthcare, IoT, and signal/image analytics for the MENA and global tech market.<br>🤝 I’m looking for help with Optimizing AI models for deployment on embedded systems and cloud-based medical platforms.<br>🌱 I’m currently learning Cutting-edge ML/DL techniques, applied biomedical AI solutions, and production-grade deployment practices.<br>💬 Ask me about Medical image analysis, biomedical signal processing, healthcare AI systems, and IoT-enabled medical devices.<br>⚡ Fun fact I’m passionate about building AI systems that bridge biomedical engineering with practical real-world healthcare needs.<br>
 
